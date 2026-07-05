@@ -1,6 +1,6 @@
- # Agent Instructions
+# Agent Instructions
 
-Build this project to a very high visual and interaction standard.
+Before making changes, read PRODUCT.md and preserve its product standard.
 
 Non-negotiables:
 - Apple-quality aesthetic
@@ -8,7 +8,8 @@ Non-negotiables:
 - Elegant spacing and typography
 - Easy to visualize rhythm
 - Almost magical first-use experience
-- Avoid clutter, admin dashboards, rough demos, and overly technical UI
+- Beautiful motion and minimal friction
+- Avoid clutter, admin dashboards, rough demos, documentation-tool aesthetics, and overly technical UI
 
 Project goal:
 Create a polished React + TypeScript prototype that records a short percussive rhythm, detects transient hits, visualizes them on a timeline, and displays a simple notation-style rhythm view.
@@ -21,6 +22,8 @@ Preferred stack:
 - Clean CSS
 - No backend for the first prototype
 
-Always preserve the product mantra:
-
+Product mantra:
 Make rhythm visible.
+
+Core promise:
+Play it. See it. Understand it.
